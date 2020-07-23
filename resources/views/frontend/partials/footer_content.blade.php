@@ -33,14 +33,14 @@
                     <div class="footer-social">
                         <div class="row">
                             <div class="col-2">
-                                <a href="#"><img class="contact-icon" src="assets/img/icons/mobile.svg"></a>
+                                <a href="#"><img class="contact-icon" src="{{ asset('frontend/img/icons/mobile.svg') }}"></a>
                             </div>
                             <div class="col-4 contact-dat">
                                 <p>+92 305 6946521</p>
-                                <!-- <p>admin@visionsolutions.com</p> -->
+                                <!-- <p>166 651 65161</p> -->
                             </div>
                             <div class="col-2">
-                                <a href="#"><img class="contact-icon" src="assets/img/icons/message.svg"></a>
+                                <a href="#"><img class="contact-icon" src="{{ asset('frontend/img/icons/message.svg') }}"></a>
                             </div>
                             <div class="col-4 contact-dat">
                                 <p>contact@visionsolutions.com</p>
@@ -77,8 +77,6 @@
                      </div>
                    </div>
                 </div>
-                
-                
             </div>
         </div>
     </div>

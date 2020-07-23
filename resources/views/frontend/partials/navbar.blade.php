@@ -3,7 +3,7 @@
         <div class="preloader-inner position-relative">
             <div class="preloader-circle"></div>
             <div class="preloader-img pere-text">
-                <img src="assets/img/logo/loading.gif" alt="">
+                <img src="{{ asset('frontend/img/logo/loading.gif') }}" alt="">
             </div>
         </div>
     </div>
@@ -17,13 +17,13 @@
                 <div class="menu-wrapper d-flex align-items-center justify-content-between">
                     <!-- Logo -->
                     <div class="logo">
-                        <a href="index.html"><img src="{{ asset('frontend/img/logo/logo.png') }}" class="img img-fluid" alt=""></a>
+                        <router-link to='/home'><img src="{{ asset('frontend/img/logo/logo.png') }}" class="img img-fluid" alt=""></router-link>
                     </div>
                     <!-- Main-menu -->
                     <div class="main-menu f-right d-none d-lg-block">
                         <nav>
                             <ul id="navigation">
-                                <li><a href="index.html">Portfolio</a></li>
+                                <li><router-link to='/portfolio'>Portfolio</router-link></li>
                                 <li><a href="about.html">Our Company</a></li>
                                 <li><a href="services.html">Services</a></li>
                                 <li><a href="blog.html">Technology</a></li>

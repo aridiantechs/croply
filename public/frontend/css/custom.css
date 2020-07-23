@@ -59,7 +59,7 @@
     cursor: pointer;
 }
 .porfolio-back{
-	height: 300px;
+	/*height: 300px;*/
 	background: #138f7a
 }
 
@@ -470,7 +470,7 @@ button.slick-prev, button.slick-prev:hover {
     display: flex;
     align-items: center;
 }
-.porfolio-back.p-5.slick-slide:not(.slick-active) {
+.scroll-portfolio .slick-slide:not(.slick-active) {
     overflow-x: hidden;
 }
 

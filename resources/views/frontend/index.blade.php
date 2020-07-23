@@ -80,10 +80,10 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-popular-items mb-50">
                             <div class="gif-icon">
-                                <img src="{{ asset('frontend/img/gif/diamond/animat-diamond-color.gif') }}') }}" alt="" class="img img-fluid">
+                                <img src="{{ asset('frontend/img/gif/diamond/animat-diamond-color.gif') }}" alt="" class="img img-fluid">
                             </div>
                             <div class="service-text p-3">
-                                <h2>Web development</h2>
+                                <h4>Web development</h4>
                                 <p>iOS, Android, cross-platform solutions, you name it, the mobile development team at 4Vision.</p>
                             </div>
                             
@@ -96,7 +96,7 @@
                                 <img src="{{ asset('frontend/img/gif/responsive/animat-responsive-color.gif') }}" alt="" class="img img-fluid">
                             </div>
                             <div class="service-text p-3">
-                                <h2>Mobile development</h2>
+                                <h4>Mobile development</h4>
                                 <p>iOS, Android, cross-platform solutions, you name it, the mobile development team at 4Vision.</p>
                             </div>
                             
@@ -109,7 +109,7 @@
                                 <img src="{{ asset('frontend/img/gif/pencil/animat-pencil-color.gif') }}" alt="" class="img img-fluid">
                             </div>
                             <div class="service-text p-3">
-                                <h2>UI/UX Design</h2>
+                                <h4>UI/UX Design</h4>
                                 <p>iOS, Android, cross-platform solutions, you name it, the mobile development team at 4Vision.</p>
                             </div>
                             
@@ -122,7 +122,7 @@
                                 <img src="{{ asset('frontend/img/gif/lightbulb/animat-lightbulb-color.gif') }}" alt="" class="img img-fluid">
                             </div>
                             <div class="service-text p-3">
-                                <h2>Digital Marketing</h2>
+                                <h4>Digital Marketing</h4>
                                 <p>iOS, Android, cross-platform solutions, you name it, the mobile development team at 4Vision.</p>
                             </div>
                             
@@ -135,7 +135,7 @@
                                 <img src="{{ asset('frontend/img/gif/checkmark/animat-checkmark-color.gif') }}" alt="" class="img img-fluid">
                             </div>
                             <div class="service-text p-3">
-                                <h2>QA & QC</h2>
+                                <h4>QA & QC</h4>
                                 <p>iOS, Android, cross-platform solutions, you name it, the mobile development team at 4Vision.</p>
                             </div>
                             
@@ -148,7 +148,7 @@
                                 <img src="{{ asset('frontend/img/gif/search/animat-search-color.gif') }}" alt="" class="img img-fluid">
                             </div>
                             <div class="service-text p-3">
-                                <h2>E-Commerce Solutions</h2>
+                                <h4>E-Commerce Solutions</h4>
                                 <p>iOS, Android, cross-platform solutions, you name it, the mobile development team at 4Vision.</p>
                             </div>
                             
@@ -161,7 +161,7 @@
                                 <img src="{{ asset('frontend/img/gif/line-chart/animat-linechart-color.gif') }}" alt="" class="img img-fluid">
                             </div>
                             <div class="service-text p-3">
-                                <h2>Blockchain</h2>
+                                <h4>Blockchain</h4>
                                 <p>iOS, Android, cross-platform solutions, you name it, the mobile development team at 4Vision.</p>
                             </div>
                             
@@ -174,7 +174,7 @@
                                 <img src="{{ asset('frontend/img/gif/rocket/animat-rocket-color.gif') }}" alt="" class="img img-fluid">
                             </div>
                             <div class="service-text p-3">
-                                <h2>BigData</h2>
+                                <h4>BigData</h4>
                                 <p>iOS, Android, cross-platform solutions, you name it, the mobile development team at 4Vision.</p>
                             </div>
                             
